@@ -1,6 +1,6 @@
 [
 null,
-{"id":1,"battlerName":"Actor1_5","characterIndex":0,"characterName":"AllBasicMoves","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"ghoulGG","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ethan Vinters","nickname":"Игорь Зимний","note":"","profile":""},
-{"id":2,"battlerName":"Actor2_4","characterIndex":3,"characterName":"Actor2","classId":3,"equips":[2,1,2,3,0],"faceIndex":3,"faceName":"Actor2","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ella Cavs","nickname":"Инна Ковш","note":"","profile":""},
-{"id":3,"battlerName":"Actor1_3","characterIndex":2,"characterName":"Actor1","classId":2,"equips":[3,0,2,3,4],"faceIndex":2,"faceName":"Actor1","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jason Burns","nickname":"Женя Горячий","note":"","profile":""}
+{"id":1,"battlerName":"","characterIndex":0,"characterName":"AllBasicMoves","classId":1,"equips":[0,0,0,3,4],"faceIndex":0,"faceName":"AllFacesLol","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ethan Vinters","nickname":"","note":"","profile":""},
+{"id":2,"battlerName":"Actor2_4","characterIndex":3,"characterName":"Actor2","classId":1,"equips":[2,0,0,3,4],"faceIndex":2,"faceName":"AllFacesLol","traits":[],"initialLevel":1,"maxLevel":99,"name":"Ella Cavs","nickname":"","note":"","profile":""},
+{"id":3,"battlerName":"","characterIndex":1,"characterName":"AllBasicMoves","classId":2,"equips":[3,0,0,3,4],"faceIndex":1,"faceName":"AllFacesLol","traits":[],"initialLevel":1,"maxLevel":99,"name":"Jason Burns","nickname":"","note":"","profile":""}
 ]
